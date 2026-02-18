@@ -94,4 +94,4 @@ Ils traduisent un intérêt particulier pour :
 - l’ordonnancement et la planification,
 - l’étude des propriétés d’intégralité et de convergence des algorithmes.
 
-Ces travaux constituent une base méthodologique pour des recherches futures en optimisation industrielle et en algorithmique décisionnelle.m
+Ces travaux constituent une base méthodologique pour des recherches futures en optimisation industrielle et en algorithmique décisionnelle.
